@@ -1,0 +1,21 @@
+
+.total {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 7px 15px;
+    border: 1px solid #9AA0A6;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.colLeft {
+    margin: 0;
+    width: 50%;
+}
+
+.colRight {
+    margin: 0;
+    width: 50%;
+    text-align: right;
+}

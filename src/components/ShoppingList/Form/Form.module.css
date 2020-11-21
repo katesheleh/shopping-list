@@ -1,0 +1,19 @@
+.input {
+    padding: 10px 15px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.button {
+    height: 39px;
+    width: 200px;
+    padding: 10px 15px;
+    border: none;
+    background: #499c35;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.form {
+    margin-bottom: 20px;
+}
